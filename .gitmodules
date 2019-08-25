@@ -1,0 +1,6 @@
+[submodule "glfw"]
+	path = glfw
+	url = https://github.com/Aloure/glfw
+[submodule "gl3w"]
+	path = gl3w
+	url = https://github.com/Aloure/gl3w
