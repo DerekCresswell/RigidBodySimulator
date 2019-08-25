@@ -31,4 +31,6 @@ int main() {
 
 	glfwMakeContextCurrent(window);
 
+	return 0;
+
 }
