@@ -23,3 +23,6 @@ This will create the appropriate build files for your development environment.
 
 > Compiled files (libraries and binaries) will go to __bin/__ and temporary files
 like .obj files will go into __bin-int/__
+
+## Strech Goals
+* Drawing custom shapes.
