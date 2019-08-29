@@ -1,5 +1,5 @@
 # RigidBodySimulator
-A Rigid Body Simulator written in C++ using OpenGL and VS 2017
+A 2D Rigid Body Simulator written in C++ using OpenGL and VS 2017.
 
 ## Building
 
