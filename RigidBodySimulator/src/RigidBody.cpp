@@ -30,6 +30,8 @@ class RigidBody {
 
 		}
 
+		virtual void DrawBody();
+
 };
 
 struct position {
